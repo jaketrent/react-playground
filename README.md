@@ -11,6 +11,7 @@ npm install react-playground
 ## Init
 
 ```
+npm init
 play --init
 npm install
 ```
