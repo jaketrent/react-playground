@@ -9,7 +9,7 @@ function hasArgs(args) {
 
 if (!hasArgs(argv) || argv.help || argv.h) {
   require('../help')()
-  return
+  process.exit(0)
 }
 
 if (argv.init || argv.i)
