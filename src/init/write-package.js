@@ -1,4 +1,3 @@
-import assign from 'lodash/object/assign'
 import clone from 'lodash/lang/clone'
 import * as fs from 'fs'
 import * as path from 'path'
