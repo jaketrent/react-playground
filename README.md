@@ -8,6 +8,10 @@ Set up the jungle gym for immediate React play.
 npm install react-playground
 ```
 
+## Compatibility
+
+`react-playground@2` is compatible with npm@3.  `react-playground@1.x` is compatible with npm@2.
+
 ## Init
 
 ```
