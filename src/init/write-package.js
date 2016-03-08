@@ -2,7 +2,7 @@ import clone from 'lodash/lang/clone'
 import * as fs from 'fs'
 import * as path from 'path'
 
-var src = './node_modules/react-playground/node_modules/react-config/package.json'
+var src = './node_modules/react-config/package.json'
 var dest = './package.json'
 
 function copyDevDependencies(srcPkg, destPkg) {

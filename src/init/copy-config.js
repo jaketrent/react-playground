@@ -1,7 +1,7 @@
 import * as fs from 'fs'
 import * as path from 'path'
 
-var src = './node_modules/react-playground/node_modules/react-config/webpack.config.js'
+var src = './node_modules/react-config/webpack.config.js'
 var dest = './webpack.config.js'
 
 export default function () {
